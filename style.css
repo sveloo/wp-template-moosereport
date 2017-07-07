@@ -1,0 +1,25 @@
+/*
+Theme Name: Deakin Moose Report
+Theme URI: https://wordpress.org/themes/twentysixteen/
+Author: Sanny Veloo
+Author URI: https://www.sannyveloo.com
+Description: Template for Moose Report developed for Deakin Alumni
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-page
+Text Domain: moose
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+@font-face{font-family:Open Sans;src:url(http://www.deakin.edu.au/__data/assets/file/0010/767755/OpenSans-Regular.eot?v=0.1.1);src:url(http://www.deakin.edu.au/__data/assets/file/0010/767755/OpenSans-Regular.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0012/767766/OpenSans-Regular.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0005/767768/OpenSans-Regular.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0004/767767/OpenSans-Regular.svg?v=0.1.1#OpenSansRegular) format('svg');font-weight:400;font-style:normal}@font-face{font-family:Open Sans;src:url(http://www.deakin.edu.au/__data/assets/file/0011/767765/OpenSans-Semibold.eot?v=0.1.1);src:url(http://www.deakin.edu.au/__data/assets/file/0011/767765/OpenSans-Semibold.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0004/767758/OpenSans-Semibold.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0006/767769/OpenSans-Semibold.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0011/767756/OpenSans-Semibold.svg?v=0.1.1#OpenSansSemibold) format('svg');font-weight:600;font-style:normal}@font-face{font-family:Open Sans;src:url(http://www.deakin.edu.au/__data/assets/file/0011/767747/OpenSans-Bold.eot?v=0.1.1);src:url(http://www.deakin.edu.au/__data/assets/file/0011/767747/OpenSans-Bold.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0008/767762/OpenSans-Bold.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0008/767753/OpenSans-Bold.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0006/767751/OpenSans-Bold.svg?v=0.1.1#OpenSansBold) format('svg');font-weight:700;font-style:normal}@font-face{font-family:Worldly Light;src:url(http://www.deakin.edu.au/__data/assets/file/0007/767752/WorldlyLight.eot?v=0.1.1);src:url(http://www.deakin.edu.au/__data/assets/file/0007/767752/WorldlyLight.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0004/767749/WorldlyLight.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0009/767754/WorldlyLight.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0012/767748/WorldlyLight.svg?v=0.1.1#WorldlyLight) format('svg');font-weight:400;font-style:normal}@font-face{font-family:Worldly Regular;src:url(http://www.deakin.edu.au/__data/assets/file/0012/767757/WorldlyRegular.eot?v=0.1.1);src:url(http://www.deakin.edu.au/__data/assets/file/0012/767757/WorldlyRegular.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0010/767746/WorldlyRegular.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0006/767760/WorldlyRegular.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0009/767763/WorldlyRegular.svg?v=0.1.1#WorldlyRegular) format('svg');font-weight:400;font-style:normal}
+
+
+@font-face{
+	font-family:Worldly Bold;
+	src:url(http://www.deakin.edu.au/__data/assets/file/0010/767764/WorldlyBold.eot?v=0.1.1);
+	src:url(http://www.deakin.edu.au/__data/assets/file/0010/767764/WorldlyBold.eot?v=0.1.1?#iefix) format('embedded-opentype'),url(http://www.deakin.edu.au/__data/assets/file/0005/767750/WorldlyBold.woff?v=0.1.1) format('woff'),url(http://www.deakin.edu.au/__data/assets/file/0007/767770/WorldlyBold.ttf?v=0.1.1) format('truetype'),url(http://www.deakin.edu.au/__data/assets/file/0007/767761/WorldlyBold.svg?v=0.1.1#WorldlyBold) format('svg');font-weight:400;font-style:normal
+}
