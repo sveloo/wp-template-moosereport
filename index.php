@@ -99,7 +99,7 @@
             <div class="mbr-table-md-up">
 
               <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 57%;">
-                  <div class="mbr-figure"><a href="https://vimeo.com/creativavideos/review/217930555/90260bcdd0" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/creativa-video-snip-with-play-button-1400x859.jpg"></a></div>
+                  <div class="mbr-figure"><a href="https://youtu.be/Kuqw9uEEQOM" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/creativa-video-snip-with-play-button-1400x859.jpg"></a></div>
               </div>
 
               
